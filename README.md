@@ -13,7 +13,7 @@
 |      **Project Name**     | <b>News Tracker Application<b> |
 |:---------------------:|:------------------------------:|
 |         **Domain**        |  Cloud Application Development |
-|        **Team ID**        |  PNT2022TMID29362 |
+|        **Team ID**        |  PNT2022TMID52358 |
 
 
 ## __Team Size : 4__
@@ -21,9 +21,9 @@
 
 |Team Leader :| AADHAVAN P|
 | ------------|---------------|              
-|Team member 1 :|VIJAY R|
-|Team member 2 :|MOHAMED MUSTHAPA N|
-|Team member 3 :|MANOJKUMAR K|
+|Team member 1 :|GOPINATH R|
+|Team member 2 :|SANTHOSH S|
+|Team member 3 :|SUBHASH R|
 
 ## Project Phases
 
